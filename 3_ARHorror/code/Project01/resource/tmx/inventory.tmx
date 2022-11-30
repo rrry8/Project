@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="120" height="67" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="67">
+ <objectgroup id="2" name="InventoryColl">
+  <object id="6" name="target" x="132" y="132" width="486" height="244"/>
+  <object id="17" name="belongings" x="1184" y="12.5605" width="652" height="942.203"/>
+  <object id="19" name="operation" x="0" y="1008" width="1920" height="64"/>
+  <object id="32" name="1" x="1292" y="208" width="107" height="107"/>
+  <object id="33" name="2" x="1399" y="208" width="107" height="107"/>
+  <object id="34" name="3" x="1506" y="208" width="107" height="107"/>
+  <object id="35" name="4" x="1613" y="208" width="107" height="107"/>
+  <object id="36" name="5" x="1292" y="315" width="107" height="107"/>
+  <object id="37" name="6" x="1399" y="315" width="107" height="107"/>
+  <object id="38" name="7" x="1506" y="315" width="107" height="107"/>
+  <object id="39" name="8" x="1613" y="315" width="107" height="107"/>
+  <object id="40" name="9" x="1292" y="422" width="107" height="107"/>
+  <object id="41" name="10" x="1399" y="422" width="107" height="107"/>
+  <object id="42" name="11" x="1506" y="422" width="107" height="107"/>
+  <object id="44" name="12" x="1613" y="422" width="107" height="107"/>
+  <object id="46" name="13" x="1292" y="529" width="107" height="107"/>
+  <object id="48" name="14" x="1399" y="529" width="107" height="107"/>
+  <object id="49" name="15" x="1506" y="529" width="107" height="107"/>
+  <object id="50" name="16" x="1613" y="529" width="107" height="107"/>
+  <object id="51" name="explanation" x="1292" y="688" width="432" height="183.872"/>
+  <object id="54" name="tab" x="1664" y="1024" width="224" height="32"/>
+  <object id="55" name="mouse" x="1360" y="1024" width="224" height="32"/>
+  <object id="60" name="invtyTips" x="320" y="160" width="1280.65" height="797.976"/>
+  <object id="64" name="photo1" x="48" y="640" width="320" height="160"/>
+  <object id="66" name="photo2" x="400" y="640" width="320" height="160"/>
+  <object id="65" name="photo3" x="752" y="640" width="320" height="160"/>
+ </objectgroup>
+</map>

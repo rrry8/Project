@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="120" height="67" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="68">
+ <objectgroup id="2" name="tipsColl">
+  <object id="19" name="operation" x="0" y="1008" width="1920" height="64"/>
+  <object id="54" name="tab" x="1664" y="1024" width="224" height="32"/>
+  <object id="55" name="mouse" x="1360" y="1024" width="224" height="32"/>
+  <object id="67" name="tutorial" x="1280" y="208" width="635.152" height="210.182"/>
+ </objectgroup>
+</map>
